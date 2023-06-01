@@ -1,1 +1,2 @@
 1|feat: add BigQuery streaming insert sample
+2|feat: implement Cloud Storage signed URL helper
