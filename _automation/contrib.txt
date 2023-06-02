@@ -2,3 +2,4 @@
 2|feat: implement Cloud Storage signed URL helper
 3|feat: add Firestore batch write example
 4|feat: support Pub/Sub push subscription handler
+5|feat: add Cloud Run health check endpoint
