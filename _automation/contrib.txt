@@ -3,3 +3,4 @@
 3|feat: add Firestore batch write example
 4|feat: support Pub/Sub push subscription handler
 5|feat: add Cloud Run health check endpoint
+6|feat: implement Spanner read-only transaction
