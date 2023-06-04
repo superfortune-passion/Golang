@@ -5,3 +5,4 @@
 5|feat: add Cloud Run health check endpoint
 6|feat: implement Spanner read-only transaction
 7|feat: add Datastore entity query filter
+8|feat: support Cloud Functions HTTP trigger
