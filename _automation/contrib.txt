@@ -7,3 +7,4 @@
 7|feat: add Datastore entity query filter
 8|feat: support Cloud Functions HTTP trigger
 9|feat: add Secret Manager version accessor
+10|feat: implement Cloud Logging structured entry
