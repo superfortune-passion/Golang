@@ -9,3 +9,4 @@
 9|feat: add Secret Manager version accessor
 10|feat: implement Cloud Logging structured entry
 11|feat: add Vertex AI prediction client wrapper
+12|feat: support Cloud KMS encrypt decrypt flow
