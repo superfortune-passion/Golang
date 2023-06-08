@@ -11,3 +11,4 @@
 11|feat: add Vertex AI prediction client wrapper
 12|feat: support Cloud KMS encrypt decrypt flow
 13|feat: add App Engine flexible deployment config
+14|feat: implement Cloud SQL connection pool
