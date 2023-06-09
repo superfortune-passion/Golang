@@ -13,3 +13,4 @@
 13|feat: add App Engine flexible deployment config
 14|feat: implement Cloud SQL connection pool
 15|feat: add Vision API label detection sample
+16|feat: support Speech-to-Text streaming recognize
