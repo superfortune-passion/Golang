@@ -15,3 +15,4 @@
 15|feat: add Vision API label detection sample
 16|feat: support Speech-to-Text streaming recognize
 17|feat: add Translate API batch translation
+18|feat: implement Natural Language entity analysis
