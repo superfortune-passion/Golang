@@ -16,3 +16,4 @@
 16|feat: support Speech-to-Text streaming recognize
 17|feat: add Translate API batch translation
 18|feat: implement Natural Language entity analysis
+19|feat: add Video Intelligence label detection
