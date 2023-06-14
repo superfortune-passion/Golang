@@ -18,3 +18,4 @@
 18|feat: implement Natural Language entity analysis
 19|feat: add Video Intelligence label detection
 20|feat: support Cloud Tasks enqueue handler
+21|feat: add IAM service account key rotation
