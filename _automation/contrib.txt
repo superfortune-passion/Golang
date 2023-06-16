@@ -21,3 +21,4 @@
 21|feat: add IAM service account key rotation
 22|feat: implement Error Reporting error handler
 23|feat: add Cloud Trace span instrumentation
+24|feat: support OpenTelemetry exporter setup
