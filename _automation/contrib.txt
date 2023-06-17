@@ -22,3 +22,4 @@
 22|feat: implement Error Reporting error handler
 23|feat: add Cloud Trace span instrumentation
 24|feat: support OpenTelemetry exporter setup
+25|feat: add Monitoring custom metric descriptor
