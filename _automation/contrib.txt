@@ -25,3 +25,4 @@
 25|feat: add Monitoring custom metric descriptor
 26|feat: implement Healthcare FHIR resource reader
 27|feat: add Document AI processor client
+28|feat: support Dialogflow intent detection
