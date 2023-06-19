@@ -27,3 +27,4 @@
 27|feat: add Document AI processor client
 28|feat: support Dialogflow intent detection
 29|feat: add DLP info type inspection
+30|feat: implement Asset inventory export
