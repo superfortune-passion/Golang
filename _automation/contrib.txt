@@ -26,3 +26,4 @@
 26|feat: implement Healthcare FHIR resource reader
 27|feat: add Document AI processor client
 28|feat: support Dialogflow intent detection
+29|feat: add DLP info type inspection
