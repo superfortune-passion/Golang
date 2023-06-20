@@ -29,3 +29,4 @@
 29|feat: add DLP info type inspection
 30|feat: implement Asset inventory export
 31|feat: add Cloud Build trigger configuration
+32|feat: support Batch job submission sample
