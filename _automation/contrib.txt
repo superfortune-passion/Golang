@@ -31,3 +31,4 @@
 31|feat: add Cloud Build trigger configuration
 32|feat: support Batch job submission sample
 33|feat: add Dataflow streaming pipeline stub
+34|feat: implement Dataproc cluster lifecycle
