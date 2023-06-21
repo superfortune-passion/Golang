@@ -30,3 +30,4 @@
 30|feat: implement Asset inventory export
 31|feat: add Cloud Build trigger configuration
 32|feat: support Batch job submission sample
+33|feat: add Dataflow streaming pipeline stub
