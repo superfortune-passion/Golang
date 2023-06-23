@@ -33,3 +33,4 @@
 33|feat: add Dataflow streaming pipeline stub
 34|feat: implement Dataproc cluster lifecycle
 35|feat: add Composer environment operator
+36|feat: support Memorystore Redis client
