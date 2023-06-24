@@ -35,3 +35,4 @@
 35|feat: add Composer environment operator
 36|feat: support Memorystore Redis client
 37|feat: add Cloud CDN cache invalidation
+38|feat: implement IAP tunnel authorization
