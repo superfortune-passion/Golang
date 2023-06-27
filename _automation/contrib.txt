@@ -39,3 +39,4 @@
 39|feat: add Endpoints service deployment
 40|feat: support Eventarc trigger routing
 41|feat: add Workflows execution starter
+42|feat: implement Service Directory lookup
