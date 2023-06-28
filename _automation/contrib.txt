@@ -40,3 +40,4 @@
 40|feat: support Eventarc trigger routing
 41|feat: add Workflows execution starter
 42|feat: implement Service Directory lookup
+43|feat: add Private CA certificate issuance
