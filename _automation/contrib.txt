@@ -45,3 +45,4 @@
 45|feat: add Cloud Armor security policy
 46|feat: implement Load Balancer backend config
 47|feat: add Compute Engine instance template
+48|feat: support GKE node pool autoscaling
