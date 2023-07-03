@@ -47,3 +47,4 @@
 47|feat: add Compute Engine instance template
 48|feat: support GKE node pool autoscaling
 49|feat: add Container Registry image push
+50|feat: implement Artifact Registry repository
