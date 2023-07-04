@@ -48,3 +48,4 @@
 48|feat: support GKE node pool autoscaling
 49|feat: add Container Registry image push
 50|feat: implement Artifact Registry repository
+51|feat: add Cloud Scheduler job creator
