@@ -49,3 +49,4 @@
 49|feat: add Container Registry image push
 50|feat: implement Artifact Registry repository
 51|feat: add Cloud Scheduler job creator
+52|feat: support Pub/Sub Lite topic publisher
