@@ -51,3 +51,4 @@
 51|feat: add Cloud Scheduler job creator
 52|feat: support Pub/Sub Lite topic publisher
 53|feat: add Bigtable row mutation sample
+54|feat: implement Data Catalog entry search
