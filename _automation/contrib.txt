@@ -54,3 +54,4 @@
 54|feat: implement Data Catalog entry search
 55|feat: add Analytics Hub listing subscriber
 56|feat: support Route Optimization request
+57|feat: add Model Armor safety filter
