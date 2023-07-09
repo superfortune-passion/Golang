@@ -56,3 +56,4 @@
 56|feat: support Route Optimization request
 57|feat: add Model Armor safety filter
 58|feat: implement Parameter Manager version
+59|feat: add Managed Kafka cluster config
