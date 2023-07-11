@@ -59,3 +59,4 @@
 59|feat: add Managed Kafka cluster config
 60|feat: support Media CDN edge policy
 61|feat: add Live Stream channel setup
+62|feat: implement Video Stitcher session
