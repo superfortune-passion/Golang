@@ -62,3 +62,4 @@
 62|feat: implement Video Stitcher session
 63|feat: add Text-to-Speech voice synthesis
 64|feat: support GenAI text generation prompt
+65|feat: add Profiler agent initialization
