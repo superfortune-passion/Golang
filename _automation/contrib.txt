@@ -61,3 +61,4 @@
 61|feat: add Live Stream channel setup
 62|feat: implement Video Stitcher session
 63|feat: add Text-to-Speech voice synthesis
+64|feat: support GenAI text generation prompt
