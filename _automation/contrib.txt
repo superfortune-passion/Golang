@@ -63,3 +63,4 @@
 63|feat: add Text-to-Speech voice synthesis
 64|feat: support GenAI text generation prompt
 65|feat: add Profiler agent initialization
+66|feat: implement Security Center finding export
