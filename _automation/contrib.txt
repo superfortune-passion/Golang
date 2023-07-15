@@ -66,3 +66,4 @@
 66|feat: implement Security Center finding export
 67|feat: add Connect Gateway registration
 68|feat: support Storage Transfer job schedule
+69|feat: add Cloud Run jobs task runner
