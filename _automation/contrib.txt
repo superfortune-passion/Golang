@@ -68,3 +68,4 @@
 68|feat: support Storage Transfer job schedule
 69|feat: add Cloud Run jobs task runner
 70|feat: implement Bookshelf CRUD handlers
+71|feat: add background processing worker
