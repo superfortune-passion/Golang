@@ -69,3 +69,4 @@
 69|feat: add Cloud Run jobs task runner
 70|feat: implement Bookshelf CRUD handlers
 71|feat: add background processing worker
+72|feat: support authenticated API middleware
