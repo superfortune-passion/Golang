@@ -72,3 +72,4 @@
 72|feat: support authenticated API middleware
 73|feat: add OAuth2 token refresh helper
 74|feat: implement ADC credential bootstrap
+75|feat: add gRPC client interceptor
