@@ -76,3 +76,4 @@
 76|feat: support context deadline propagation
 77|feat: add retry with exponential backoff
 78|feat: implement idempotent request wrapper
+79|feat: add region tag validation test
