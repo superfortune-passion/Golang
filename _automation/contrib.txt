@@ -78,3 +78,4 @@
 78|feat: implement idempotent request wrapper
 79|feat: add region tag validation test
 80|feat: support sample integration test harness
+81|feat: add README quickstart section
