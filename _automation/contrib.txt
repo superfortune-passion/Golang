@@ -83,3 +83,4 @@
 83|feat: add go.work module coordination
 84|feat: support internal test utilities
 85|feat: add CONTRIBUTING sample guidelines
+86|feat: implement CI workflow for samples
