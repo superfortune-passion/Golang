@@ -84,3 +84,4 @@
 84|feat: support internal test utilities
 85|feat: add CONTRIBUTING sample guidelines
 86|feat: implement CI workflow for samples
+87|feat: add SECURITY policy reference
