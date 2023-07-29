@@ -85,3 +85,4 @@
 85|feat: add CONTRIBUTING sample guidelines
 86|feat: implement CI workflow for samples
 87|feat: add SECURITY policy reference
+88|feat: support Taskfile automation tasks
