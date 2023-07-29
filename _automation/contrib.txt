@@ -86,3 +86,4 @@
 86|feat: implement CI workflow for samples
 87|feat: add SECURITY policy reference
 88|feat: support Taskfile automation tasks
+89|feat: add sample metadata region tags
