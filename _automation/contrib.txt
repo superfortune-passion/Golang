@@ -88,3 +88,4 @@
 88|feat: support Taskfile automation tasks
 89|feat: add sample metadata region tags
 90|feat: implement error wrapping patterns
+91|feat: add graceful shutdown handler
