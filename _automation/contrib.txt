@@ -91,3 +91,4 @@
 91|feat: add graceful shutdown handler
 92|feat: support environment variable config
 93|feat: add flag parsing for CLI samples
+94|feat: implement structured logging with slog
