@@ -93,3 +93,4 @@
 93|feat: add flag parsing for CLI samples
 94|feat: implement structured logging with slog
 95|feat: add HTTP client timeout defaults
+96|feat: support multipart upload streaming
