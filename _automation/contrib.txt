@@ -92,3 +92,4 @@
 92|feat: support environment variable config
 93|feat: add flag parsing for CLI samples
 94|feat: implement structured logging with slog
+95|feat: add HTTP client timeout defaults
