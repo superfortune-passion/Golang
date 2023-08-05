@@ -95,3 +95,4 @@
 95|feat: add HTTP client timeout defaults
 96|feat: support multipart upload streaming
 97|feat: add pagination iterator helper
+98|feat: implement resource cleanup defer chain
