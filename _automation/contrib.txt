@@ -96,3 +96,4 @@
 96|feat: support multipart upload streaming
 97|feat: add pagination iterator helper
 98|feat: implement resource cleanup defer chain
+99|feat: add context-aware cancellation
