@@ -98,3 +98,4 @@
 98|feat: implement resource cleanup defer chain
 99|feat: add context-aware cancellation
 100|feat: support workload identity federation
+101|feat: add cross-project resource access
