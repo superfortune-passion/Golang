@@ -102,3 +102,4 @@
 102|feat: implement quota exceeded retry
 103|feat: add sample rate limiter guard
 104|feat: support emulator connection switch
+105|feat: add local development docker compose
