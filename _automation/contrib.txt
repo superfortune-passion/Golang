@@ -104,3 +104,4 @@
 104|feat: support emulator connection switch
 105|feat: add local development docker compose
 106|feat: implement health probe for services
+107|feat: add OpenAPI spec generation stub
