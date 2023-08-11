@@ -106,3 +106,4 @@
 106|feat: implement health probe for services
 107|feat: add OpenAPI spec generation stub
 108|feat: support protobuf message marshaling
+109|feat: add Cloud Events receiver handler
