@@ -107,3 +107,4 @@
 107|feat: add OpenAPI spec generation stub
 108|feat: support protobuf message marshaling
 109|feat: add Cloud Events receiver handler
+110|feat: implement webhook signature verify
