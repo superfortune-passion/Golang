@@ -108,3 +108,4 @@
 108|feat: support protobuf message marshaling
 109|feat: add Cloud Events receiver handler
 110|feat: implement webhook signature verify
+111|feat: add batch export CSV writer
