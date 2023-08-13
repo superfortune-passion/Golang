@@ -109,3 +109,4 @@
 109|feat: add Cloud Events receiver handler
 110|feat: implement webhook signature verify
 111|feat: add batch export CSV writer
+112|feat: support Parquet read via BigQuery
