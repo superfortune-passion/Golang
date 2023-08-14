@@ -111,3 +111,4 @@
 111|feat: add batch export CSV writer
 112|feat: support Parquet read via BigQuery
 113|feat: add Avro schema encoding sample
+114|feat: implement JSONL streaming parser
