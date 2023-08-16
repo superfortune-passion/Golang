@@ -114,3 +114,4 @@
 114|feat: implement JSONL streaming parser
 115|feat: add Terraform deployment companion
 116|feat: support Cloud Shell tutorial snippet
+117|feat: add getting started walkthrough
