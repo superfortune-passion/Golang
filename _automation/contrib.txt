@@ -113,3 +113,4 @@
 113|feat: add Avro schema encoding sample
 114|feat: implement JSONL streaming parser
 115|feat: add Terraform deployment companion
+116|feat: support Cloud Shell tutorial snippet
