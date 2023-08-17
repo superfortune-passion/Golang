@@ -116,3 +116,4 @@
 116|feat: support Cloud Shell tutorial snippet
 117|feat: add getting started walkthrough
 118|feat: implement multi-region failover note
+119|feat: add cost estimation comment block
