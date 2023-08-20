@@ -119,3 +119,4 @@
 119|feat: add cost estimation comment block
 120|feat: support cleanup script for resources
 121|feat: add sample license header template
+122|feat: implement version pin documentation
