@@ -121,3 +121,4 @@
 121|feat: add sample license header template
 122|feat: implement version pin documentation
 123|feat: add deprecation notice for legacy API
+124|feat: support beta API feature flag
