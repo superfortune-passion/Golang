@@ -123,3 +123,4 @@
 123|feat: add deprecation notice for legacy API
 124|feat: support beta API feature flag
 125|feat: add client option builder pattern
+126|feat: implement mock server for tests
