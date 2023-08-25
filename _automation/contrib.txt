@@ -126,3 +126,4 @@
 126|feat: implement mock server for tests
 127|feat: add fuzz test for parsers
 128|feat: support benchmark harness setup
+129|feat: add table-driven test scaffold
