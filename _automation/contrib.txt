@@ -127,3 +127,4 @@
 127|feat: add fuzz test for parsers
 128|feat: support benchmark harness setup
 129|feat: add table-driven test scaffold
+130|feat: implement testify assertion helpers
