@@ -129,3 +129,4 @@
 129|feat: add table-driven test scaffold
 130|feat: implement testify assertion helpers
 131|feat: add golden file test updater
+132|feat: support build tags for optional deps
