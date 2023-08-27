@@ -128,3 +128,4 @@
 128|feat: support benchmark harness setup
 129|feat: add table-driven test scaffold
 130|feat: implement testify assertion helpers
+131|feat: add golden file test updater
