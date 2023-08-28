@@ -130,3 +130,4 @@
 130|feat: implement testify assertion helpers
 131|feat: add golden file test updater
 132|feat: support build tags for optional deps
+133|feat: add vendoring guidance comment
