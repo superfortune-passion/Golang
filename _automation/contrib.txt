@@ -134,3 +134,4 @@
 134|feat: implement module replace workaround
 135|feat: add minimal dependency sample
 136|feat: support pure stdlib HTTP server
+137|feat: add chi router integration stub
