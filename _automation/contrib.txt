@@ -136,3 +136,4 @@
 136|feat: support pure stdlib HTTP server
 137|feat: add chi router integration stub
 138|feat: implement gin middleware sample
+139|feat: add echo framework handler
