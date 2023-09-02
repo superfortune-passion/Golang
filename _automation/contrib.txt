@@ -140,3 +140,4 @@
 140|feat: support grpc-gateway REST bridge
 141|feat: add connect-go service definition
 142|feat: implement protobuf validation rules
+143|feat: add OpenTelemetry trace propagation
