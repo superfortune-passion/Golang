@@ -139,3 +139,4 @@
 139|feat: add echo framework handler
 140|feat: support grpc-gateway REST bridge
 141|feat: add connect-go service definition
+142|feat: implement protobuf validation rules
