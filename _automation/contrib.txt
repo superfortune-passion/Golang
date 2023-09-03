@@ -142,3 +142,4 @@
 142|feat: implement protobuf validation rules
 143|feat: add OpenTelemetry trace propagation
 144|feat: support Cloud Profiler labels
+145|feat: add custom dashboard chart config
