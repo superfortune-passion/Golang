@@ -145,3 +145,4 @@
 145|feat: add custom dashboard chart config
 146|feat: implement SLO burn rate alert
 147|feat: add uptime check configuration
+148|feat: support log-based metric filter
