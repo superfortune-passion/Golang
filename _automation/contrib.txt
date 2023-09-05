@@ -144,3 +144,4 @@
 144|feat: support Cloud Profiler labels
 145|feat: add custom dashboard chart config
 146|feat: implement SLO burn rate alert
+147|feat: add uptime check configuration
