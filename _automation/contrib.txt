@@ -146,3 +146,4 @@
 146|feat: implement SLO burn rate alert
 147|feat: add uptime check configuration
 148|feat: support log-based metric filter
+149|feat: add audit log sink exporter
