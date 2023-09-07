@@ -148,3 +148,4 @@
 148|feat: support log-based metric filter
 149|feat: add audit log sink exporter
 150|feat: implement VPC connector setup
+151|feat: add serverless NEG attachment
