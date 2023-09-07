@@ -147,3 +147,4 @@
 147|feat: add uptime check configuration
 148|feat: support log-based metric filter
 149|feat: add audit log sink exporter
+150|feat: implement VPC connector setup
