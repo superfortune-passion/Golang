@@ -151,3 +151,4 @@
 151|feat: add serverless NEG attachment
 152|feat: support internal load balancer
 153|feat: add Cloud NAT gateway example
+154|feat: implement firewall rule template
