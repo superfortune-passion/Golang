@@ -159,3 +159,4 @@
 159|feat: add billing budget notification
 160|feat: support recommender insight export
 161|feat: add carbon footprint estimator stub
+162|feat: implement sustainability tagging
