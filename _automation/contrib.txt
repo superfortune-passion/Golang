@@ -161,3 +161,4 @@
 161|feat: add carbon footprint estimator stub
 162|feat: implement sustainability tagging
 163|feat: add sample changelog entry format
+164|feat: support semver release tagging
