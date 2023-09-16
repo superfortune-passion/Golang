@@ -163,3 +163,4 @@
 163|feat: add sample changelog entry format
 164|feat: support semver release tagging
 165|feat: add contributor attribution note
+166|feat: implement sample discovery index
