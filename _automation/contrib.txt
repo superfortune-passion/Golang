@@ -165,3 +165,4 @@
 165|feat: add contributor attribution note
 166|feat: implement sample discovery index
 167|feat: add cross-sample dependency map
+168|feat: support lazy client initialization
