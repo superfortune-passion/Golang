@@ -168,3 +168,4 @@
 168|feat: support lazy client initialization
 169|feat: add connection string validator
 170|feat: implement schema migration helper
+171|feat: add ORM-free SQL query builder
