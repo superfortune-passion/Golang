@@ -171,3 +171,4 @@
 171|feat: add ORM-free SQL query builder
 172|feat: support ent schema integration
 173|feat: add GORM Cloud SQL dialect
+174|feat: implement sqlx row scanner
