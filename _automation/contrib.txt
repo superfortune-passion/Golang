@@ -174,3 +174,4 @@
 174|feat: implement sqlx row scanner
 175|feat: add pgx connection pool sample
 176|feat: support AlloyDB connector setup
+177|feat: add Spanner ORM adapter note
