@@ -175,3 +175,4 @@
 175|feat: add pgx connection pool sample
 176|feat: support AlloyDB connector setup
 177|feat: add Spanner ORM adapter note
+178|feat: implement Firestore emulator seed
