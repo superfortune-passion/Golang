@@ -177,3 +177,4 @@
 177|feat: add Spanner ORM adapter note
 178|feat: implement Firestore emulator seed
 179|feat: add realtime listener callback
+180|feat: support offline persistence toggle
