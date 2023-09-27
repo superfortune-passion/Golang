@@ -178,3 +178,4 @@
 178|feat: implement Firestore emulator seed
 179|feat: add realtime listener callback
 180|feat: support offline persistence toggle
+181|feat: add composite index definition
