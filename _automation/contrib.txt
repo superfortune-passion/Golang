@@ -179,3 +179,4 @@
 179|feat: add realtime listener callback
 180|feat: support offline persistence toggle
 181|feat: add composite index definition
+182|feat: implement security rules template
