@@ -181,3 +181,4 @@
 181|feat: add composite index definition
 182|feat: implement security rules template
 183|feat: add Firebase auth token verify
+184|feat: support App Check attestation
