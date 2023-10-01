@@ -185,3 +185,4 @@
 185|feat: add FCM push notification sender
 186|feat: implement Remote Config fetch
 187|feat: add Crashlytics breadcrumb hook
+188|feat: support Performance Monitoring trace
