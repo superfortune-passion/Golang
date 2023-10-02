@@ -187,3 +187,4 @@
 187|feat: add Crashlytics breadcrumb hook
 188|feat: support Performance Monitoring trace
 189|feat: add Dynamic Links generator
+190|feat: implement A/B test variant assign
