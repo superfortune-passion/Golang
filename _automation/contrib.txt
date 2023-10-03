@@ -189,3 +189,4 @@
 189|feat: add Dynamic Links generator
 190|feat: implement A/B test variant assign
 191|feat: add Analytics event logger
+192|feat: support BigQuery ML model deploy
