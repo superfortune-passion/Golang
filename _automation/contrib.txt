@@ -193,3 +193,4 @@
 193|feat: add Looker Studio connector stub
 194|feat: implement Dataform workflow trigger
 195|feat: add Dataplex lake zone config
+196|feat: support Metastore catalog sync
