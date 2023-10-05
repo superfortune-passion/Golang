@@ -194,3 +194,4 @@
 194|feat: implement Dataform workflow trigger
 195|feat: add Dataplex lake zone config
 196|feat: support Metastore catalog sync
+197|feat: add Datastream CDC connector
