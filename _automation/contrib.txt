@@ -196,3 +196,4 @@
 196|feat: support Metastore catalog sync
 197|feat: add Datastream CDC connector
 198|feat: implement Data Fusion pipeline
+199|feat: add Composer DAG operator
