@@ -195,3 +195,4 @@
 195|feat: add Dataplex lake zone config
 196|feat: support Metastore catalog sync
 197|feat: add Datastream CDC connector
+198|feat: implement Data Fusion pipeline
