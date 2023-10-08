@@ -200,3 +200,4 @@
 200|feat: support Vertex Pipelines component
 201|feat: add Model Registry version tag
 202|feat: implement Feature Store ingestion
+203|feat: add Vector Search index builder
