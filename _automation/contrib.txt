@@ -202,3 +202,4 @@
 202|feat: implement Feature Store ingestion
 203|feat: add Vector Search index builder
 204|feat: support Gemini multimodal prompt
+205|feat: add Imagen generation parameters
