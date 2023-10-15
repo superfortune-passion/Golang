@@ -205,3 +205,4 @@
 205|feat: add Imagen generation parameters
 206|feat: implement Codey completion wrapper
 207|feat: add grounding source attribution
+208|feat: support safety settings threshold
