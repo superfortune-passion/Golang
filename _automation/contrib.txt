@@ -204,3 +204,4 @@
 204|feat: support Gemini multimodal prompt
 205|feat: add Imagen generation parameters
 206|feat: implement Codey completion wrapper
+207|feat: add grounding source attribution
