@@ -208,3 +208,4 @@
 208|feat: support safety settings threshold
 209|feat: add token counting utility
 210|feat: implement streaming response reader
+211|feat: add function calling tool schema
