@@ -209,3 +209,4 @@
 209|feat: add token counting utility
 210|feat: implement streaming response reader
 211|feat: add function calling tool schema
+212|feat: support JSON mode response format
