@@ -211,3 +211,4 @@
 211|feat: add function calling tool schema
 212|feat: support JSON mode response format
 213|feat: add embedding batch job submitter
+214|feat: implement RAG corpus uploader
