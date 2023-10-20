@@ -212,3 +212,4 @@
 212|feat: support JSON mode response format
 213|feat: add embedding batch job submitter
 214|feat: implement RAG corpus uploader
+215|feat: add evaluation metric calculator
