@@ -214,3 +214,4 @@
 214|feat: implement RAG corpus uploader
 215|feat: add evaluation metric calculator
 216|feat: support prompt template registry
+217|feat: add experiment tracking metadata
