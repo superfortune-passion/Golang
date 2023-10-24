@@ -216,3 +216,4 @@
 216|feat: support prompt template registry
 217|feat: add experiment tracking metadata
 218|feat: implement model card documentation
+219|feat: add responsible AI checklist
