@@ -217,3 +217,4 @@
 217|feat: add experiment tracking metadata
 218|feat: implement model card documentation
 219|feat: add responsible AI checklist
+220|feat: support batch prediction input prep
