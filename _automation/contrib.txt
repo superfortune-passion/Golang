@@ -218,3 +218,4 @@
 218|feat: implement model card documentation
 219|feat: add responsible AI checklist
 220|feat: support batch prediction input prep
+221|feat: add online prediction endpoint
