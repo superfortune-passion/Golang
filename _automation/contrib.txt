@@ -221,3 +221,4 @@
 221|feat: add online prediction endpoint
 222|feat: implement A/B model routing
 223|feat: add canary deployment strategy
+224|feat: support traffic split configuration
