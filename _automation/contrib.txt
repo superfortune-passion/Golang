@@ -223,3 +223,4 @@
 223|feat: add canary deployment strategy
 224|feat: support traffic split configuration
 225|feat: add autoscaling metric target
+226|feat: implement min instance warm pool
