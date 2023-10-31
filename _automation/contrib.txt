@@ -225,3 +225,4 @@
 225|feat: add autoscaling metric target
 226|feat: implement min instance warm pool
 227|feat: add CPU always allocated option
+228|feat: support GPU accelerator attach
