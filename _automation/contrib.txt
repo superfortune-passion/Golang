@@ -226,3 +226,4 @@
 226|feat: implement min instance warm pool
 227|feat: add CPU always allocated option
 228|feat: support GPU accelerator attach
+229|feat: add custom container entrypoint
