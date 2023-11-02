@@ -227,3 +227,4 @@
 227|feat: add CPU always allocated option
 228|feat: support GPU accelerator attach
 229|feat: add custom container entrypoint
+230|feat: implement Cloud Build kaniko step
