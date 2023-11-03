@@ -228,3 +228,4 @@
 228|feat: support GPU accelerator attach
 229|feat: add custom container entrypoint
 230|feat: implement Cloud Build kaniko step
+231|feat: add Artifact Registry vulnerability scan
