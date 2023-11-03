@@ -229,3 +229,4 @@
 229|feat: add custom container entrypoint
 230|feat: implement Cloud Build kaniko step
 231|feat: add Artifact Registry vulnerability scan
+232|feat: support Binary Authorization policy
