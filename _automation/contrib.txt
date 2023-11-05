@@ -232,3 +232,4 @@
 232|feat: support Binary Authorization policy
 233|feat: add supply chain attestation
 234|feat: implement SLSA provenance generator
+235|feat: add signed container verification
