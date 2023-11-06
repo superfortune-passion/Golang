@@ -233,3 +233,4 @@
 233|feat: add supply chain attestation
 234|feat: implement SLSA provenance generator
 235|feat: add signed container verification
+236|feat: support Cloud Deploy pipeline
