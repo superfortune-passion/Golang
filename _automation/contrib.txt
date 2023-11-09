@@ -238,3 +238,4 @@
 238|feat: implement rollback automation
 239|feat: add infrastructure drift detector
 240|feat: support config sync repository
+241|feat: add fleet workload identity
