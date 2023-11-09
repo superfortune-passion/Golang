@@ -239,3 +239,4 @@
 239|feat: add infrastructure drift detector
 240|feat: support config sync repository
 241|feat: add fleet workload identity
+242|feat: implement multi-cluster ingress
