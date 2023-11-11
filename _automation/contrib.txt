@@ -241,3 +241,4 @@
 241|feat: add fleet workload identity
 242|feat: implement multi-cluster ingress
 243|feat: add service mesh sidecar inject
+244|feat: support Anthos config management
