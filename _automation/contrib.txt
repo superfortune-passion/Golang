@@ -242,3 +242,4 @@
 242|feat: implement multi-cluster ingress
 243|feat: add service mesh sidecar inject
 244|feat: support Anthos config management
+245|feat: add GKE backup plan schedule
