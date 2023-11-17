@@ -248,3 +248,4 @@
 248|feat: support SRE error budget tracker
 249|feat: add incident response playbook link
 250|feat: implement on-call rotation reminder
+251|feat: add postmortem template reference
