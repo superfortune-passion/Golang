@@ -249,3 +249,4 @@
 249|feat: add incident response playbook link
 250|feat: implement on-call rotation reminder
 251|feat: add postmortem template reference
+252|feat: support blameless culture note
