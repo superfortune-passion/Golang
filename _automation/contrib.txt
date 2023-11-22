@@ -255,3 +255,4 @@
 255|feat: add chaos engineering experiment
 256|feat: support fault injection toggle
 257|feat: add circuit breaker middleware
+258|feat: implement bulkhead concurrency limit
