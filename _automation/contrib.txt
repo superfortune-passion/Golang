@@ -254,3 +254,4 @@
 254|feat: implement load test scenario script
 255|feat: add chaos engineering experiment
 256|feat: support fault injection toggle
+257|feat: add circuit breaker middleware
