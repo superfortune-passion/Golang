@@ -256,3 +256,4 @@
 256|feat: support fault injection toggle
 257|feat: add circuit breaker middleware
 258|feat: implement bulkhead concurrency limit
+259|feat: add timeout cascade prevention
