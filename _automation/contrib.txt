@@ -258,3 +258,4 @@
 258|feat: implement bulkhead concurrency limit
 259|feat: add timeout cascade prevention
 260|feat: support hedged request pattern
+261|feat: add adaptive throttling client
