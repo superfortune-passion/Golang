@@ -260,3 +260,4 @@
 260|feat: support hedged request pattern
 261|feat: add adaptive throttling client
 262|feat: implement graceful degradation mode
+263|feat: add feature toggle service client
