@@ -262,3 +262,4 @@
 262|feat: implement graceful degradation mode
 263|feat: add feature toggle service client
 264|feat: support dynamic config reload
+265|feat: add blue-green deploy switch
