@@ -265,3 +265,4 @@
 265|feat: add blue-green deploy switch
 266|feat: implement shadow traffic mirroring
 267|feat: add request replay sandbox
+268|feat: support contract test verifier
