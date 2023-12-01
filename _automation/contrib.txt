@@ -268,3 +268,4 @@
 268|feat: support contract test verifier
 269|feat: add API versioning header
 270|feat: implement deprecation sunset header
+271|feat: add CORS middleware for samples
