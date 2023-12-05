@@ -273,3 +273,4 @@
 273|feat: add rate limit by API key
 274|feat: implement JWT bearer auth middleware
 275|feat: add API gateway key restriction
+276|feat: support mutual TLS client cert
