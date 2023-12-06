@@ -275,3 +275,4 @@
 275|feat: add API gateway key restriction
 276|feat: support mutual TLS client cert
 277|feat: add secrets rotation scheduler
+278|feat: implement least privilege IAM binding
