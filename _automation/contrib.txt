@@ -277,3 +277,4 @@
 277|feat: add secrets rotation scheduler
 278|feat: implement least privilege IAM binding
 279|feat: add conditional IAM expression
+280|feat: support workforce identity pool
