@@ -278,3 +278,4 @@
 278|feat: implement least privilege IAM binding
 279|feat: add conditional IAM expression
 280|feat: support workforce identity pool
+281|feat: add workforce SSO integration
