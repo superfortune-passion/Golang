@@ -280,3 +280,4 @@
 280|feat: support workforce identity pool
 281|feat: add workforce SSO integration
 282|feat: implement identity-aware proxy guard
+283|feat: add BeyondCorp access level
