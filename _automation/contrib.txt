@@ -282,3 +282,4 @@
 282|feat: implement identity-aware proxy guard
 283|feat: add BeyondCorp access level
 284|feat: support device trust verification
+285|feat: add zero trust network segment
