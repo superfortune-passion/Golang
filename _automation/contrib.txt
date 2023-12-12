@@ -284,3 +284,4 @@
 284|feat: support device trust verification
 285|feat: add zero trust network segment
 286|feat: implement DLP tokenization helper
+287|feat: add field-level encryption sample
