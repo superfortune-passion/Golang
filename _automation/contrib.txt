@@ -287,3 +287,4 @@
 287|feat: add field-level encryption sample
 288|feat: support envelope encryption pattern
 289|feat: add HSM-backed key reference
+290|feat: implement Tink crypto integration
