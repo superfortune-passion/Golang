@@ -289,3 +289,4 @@
 289|feat: add HSM-backed key reference
 290|feat: implement Tink crypto integration
 291|feat: add confidential computing note
+292|feat: support AMD SEV attestation stub
