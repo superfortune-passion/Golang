@@ -290,3 +290,4 @@
 290|feat: implement Tink crypto integration
 291|feat: add confidential computing note
 292|feat: support AMD SEV attestation stub
+293|feat: add sample data anonymization
