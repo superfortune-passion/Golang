@@ -291,3 +291,4 @@
 291|feat: add confidential computing note
 292|feat: support AMD SEV attestation stub
 293|feat: add sample data anonymization
+294|feat: implement PII redaction filter
