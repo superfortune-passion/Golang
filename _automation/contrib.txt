@@ -293,3 +293,4 @@
 293|feat: add sample data anonymization
 294|feat: implement PII redaction filter
 295|feat: add GDPR deletion workflow
+296|feat: support data residency selector
