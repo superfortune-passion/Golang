@@ -294,3 +294,4 @@
 294|feat: implement PII redaction filter
 295|feat: add GDPR deletion workflow
 296|feat: support data residency selector
+297|feat: add cross-border transfer guard
