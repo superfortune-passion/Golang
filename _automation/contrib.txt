@@ -296,3 +296,4 @@
 296|feat: support data residency selector
 297|feat: add cross-border transfer guard
 298|feat: implement retention policy enforcer
+299|feat: add legal hold flag handler
