@@ -1,0 +1,10 @@
+export const AUTHOR_NAME = "superfortune"
+export const AUTHOR_EMAIL = "sfortunepassion0908@outlook.com"
+export const START_DATE = "2023-06-01"
+export const END_DATE = "2023-12-20"
+export const TARGET_COMMITS = 300
+export const EXPECTED_TOTAL = 300
+export const MAX_PER_DAY = 2
+export const MAX_FIRST_OF_MONTH = 3
+export const CONTRIB_FILE = "_automation/contrib.txt"
+export const BRANCH = "main"
